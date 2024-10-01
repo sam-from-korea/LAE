@@ -10,7 +10,7 @@ checkpoint: null
 data:
   current_task: 0
   dataset: cifar100
-  root: C:\Users\xsamk\Documents\GitHub\LAE
+  root: C:\Users\xsamk\Documents\GitHub\LAE\data
   num_init_classes: 0
   num_increment_classes: 10
   class_order: null
