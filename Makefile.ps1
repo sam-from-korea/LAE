@@ -7,6 +7,7 @@ $env:CUDA_VISIBLE_DEVICES = "0"
 # 기본 설정 파일 경로
 $BASE = "base/cifar100_order1.yaml"
 
+# 직접 python 명령을 호출하여 출력(stdout)과 오류(stderr)를 모두 하나의 파일에 리디렉션(2>&1)하도록 수정
 # vit_adapter 작업
 function vit_adapter {
     Write-Host "Running vit_adapter..."
