@@ -9,5 +9,5 @@ timm==0.5.4
 torch==1.12.1
 torchinfo==1.7.1
 torchmetrics==0.10.2
-torchvision==0.13.1
+# torchvision==0.13.1
 typing_extensions>=4.0
